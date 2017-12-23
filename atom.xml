@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shixiaohe.online/"/>
-  <updated>2017-12-23T04:15:42.000Z</updated>
+  <updated>2017-12-23T15:17:47.000Z</updated>
   <id>http://shixiaohe.online/</id>
   
   <author>
@@ -21,9 +21,13 @@
     <link href="http://shixiaohe.online/2017/12/23/test/"/>
     <id>http://shixiaohe.online/2017/12/23/test/</id>
     <published>2017-12-23T04:15:42.000Z</published>
-    <updated>2017-12-23T04:15:42.000Z</updated>
+    <updated>2017-12-23T15:17:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章。</p><a id="more"></a>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;这是一篇测试文章。&lt;/p&gt;
     
     </summary>
     
